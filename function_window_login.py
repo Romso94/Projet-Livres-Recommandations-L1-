@@ -1,5 +1,4 @@
 # Projet : Systeme de recommandation de livres  ( projet L1)
-# Auteur : Gas Romain - Poscente Florian
 # Le fichier function_window_login.py est appelé lorsque l'utilisateur ce connecte.
 # Ce fichier sert à vérifier que l'utilisateur existe et qu'il a bien entré le pseudo associé au bon mot de passe.
 
