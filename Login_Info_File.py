@@ -1,5 +1,4 @@
 # Projet : Systeme de recommandation de livres  ( projet L1)
-# Auteurs : Gas Romain - Poscente Florian
 #Ce fichier sers a modifer le profil de l'utilisateur - supprimer l'utilisateur - afficher les infos de l'utilisateur
 
 from tkinter.constants import E, S, W
