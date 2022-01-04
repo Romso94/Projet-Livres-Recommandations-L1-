@@ -1,5 +1,4 @@
 # Projet : Systeme de recommandation de livres  ( projet L1)
-# Auteurs : Gas Romain - Poscente Florian
 # Le fichier function_window_register est appelé lors de l'enregistrement des informations d'un utilisateur
 
 
