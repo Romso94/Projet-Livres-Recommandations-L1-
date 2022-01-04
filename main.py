@@ -1,5 +1,4 @@
 # Projet : Systeme de recommandation de livres  ( projet L1)
-# Auteurs : Gas Romain - Poscente Florian
 #Ce fichier est le fichier principal qui permets de gerer l'affichage et d'appeler les fonctions nécéssaires
 
 
