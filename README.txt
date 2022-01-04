@@ -1,5 +1,4 @@
 Projet : Systeme de recommandation de livres  ( projet L1)
-Auteurs : Gas Romain - Poscente Florian
 
 GUIDE D'UTILISATION :
 
