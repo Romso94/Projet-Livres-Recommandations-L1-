@@ -1,5 +1,4 @@
 # Projet : Systeme de recommandation de livres  ( projet L1)
-# Auteurs : Gas Romain - Poscente Florian
 #Ce fichier sert à gérer les modifications dans le dépot de livre
 from function_window_register import ListeLivres
 import main
