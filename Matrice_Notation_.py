@@ -1,5 +1,4 @@
 # Projet : Systeme de recommandation de livres  ( projet L1)
-# Auteurs : Gas Romain - Poscente Florian
 #Ce fichier python sert à modifier le fichier Notation.txt qui contient la matrice de notation
 
 def matrice_init():
